@@ -6,6 +6,8 @@
       if(queryString){
        var qstring = queryString.split('q=')[1].split('&')[0];
         alert(qString);
+      }else{
+        alert('test');
       }
     </script>
   </head>
