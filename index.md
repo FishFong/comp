@@ -4,7 +4,7 @@
     <script type="text/javascript">
       var queryString = window.location.search.slice(1);
       if(queryString){
-       var qstring = queryString.split('q=')[1].split('&')[0];
+       var qString = queryString.split('q=')[1].split('&')[0];
         alert(qString);
       }
     </script>
