@@ -16,6 +16,6 @@
   </head>
   
   <body>
-    TBO
+    <div class="hello">TBO</div>
   </body>
 </html>
