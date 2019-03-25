@@ -43,5 +43,9 @@
   data-width="450"
   data-show-faces="true">
 </div>
+
+<div class="fb-post" 
+      data-href="https://www.facebook.com/20531316728/posts/10154009990506729/"
+      data-width="500"></div>
   </body>
 </html>
