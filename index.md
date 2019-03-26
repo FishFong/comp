@@ -1,51 +1,19 @@
+<!DOCTYPE html>
 <html>
-  <head>
-      <title>comp</title>
-    
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<head>
+<title>Page Title</title>
+<style>
+body {
 
-  ga('create', 'UA-134288957-1', 'auto');
-  ga('require', 'GTM-P5BRTDP');
-  ga('send', 'pageview');
-</script>
+}
+</style>
+</head>
+<body>
 
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '1194334854064159',
-      xfbml      : true,
-      version    : 'v3.2'
-    });
-    FB.AppEvents.logPageView();
-  };
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=2372253073004922&autoLogAppEvents=1"></script>
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-    
-  </head>
-  
-  <body>
-    <div class="hello">TBO</div>
-  
-  <div
-  class="fb-like"
-  data-share="true"
-  data-width="450"
-  data-show-faces="true">
-</div>
+<div class="fb-post" data-href="https://www.facebook.com/564897400669317/posts/564903854002005" data-width="500" data-show-text="true"><blockquote cite="https://developers.facebook.com/steven.zhou.16100/posts/564903854002005" class="fb-xfbml-parse-ignore"><p>comp3121-update</p>Posted by <a href="https://www.facebook.com/steven.zhou.16100">Steven Zhou</a> on&nbsp;<a href="https://developers.facebook.com/steven.zhou.16100/posts/564903854002005">Sunday, 24 March 2019</a></blockquote></div>
 
-<div class="fb-post" 
-      data-href="https://www.facebook.com/564897400669317/posts/564879110671146"
-      data-width="500"></div>
-  </body>
+</body>
 </html>
